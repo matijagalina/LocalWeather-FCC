@@ -17,8 +17,8 @@ At the bottom of the first view is another button which displays more detailed w
 
 The project fulfills the provided user stories:
 
-*User Story: I can see the weather in my current location.*
-*User Story: I can see a different icon or background image (e.g. snowy mountain, hot desert) depending on the weather.*
+*User Story: I can see the weather in my current location.*<br>
+*User Story: I can see a different icon or background image (e.g. snowy mountain, hot desert) depending on the weather.*<br>
 *User Story: I can push a button to toggle between Fahrenheit and Celsius.*
 
 **Codepen** link to quickly see how it looks and behaves: [codepen link](https://codepen.io/matijagalina/pen/YeWMXo)
